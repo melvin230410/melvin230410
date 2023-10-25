@@ -2,10 +2,6 @@
 - Ich bin ein kleiner python developer
 - Ich code Discord Bots mit Pycord
 
-## Socials:  
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCf83BJ6BdAFoU1zViGFuWlg?style=for-the-badge&logo=youtube&label=YouTube&color=red)](https://youtube.com/@gecko_tv) [![Twitch Status](https://img.shields.io/twitch/status/silbergecko_tv?style=for-the-badge&logo=twitch&logoColor=white&color=purple)](https://twitch.tv/silbergecko_tv)
-
-
 ## Stats:
 ![Melvin230410's GitHub stats](https://github-readme-stats.vercel.app/api?username=melvin230410&show_icons=true&theme=synthwave)
 
